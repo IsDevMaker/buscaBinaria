@@ -16,7 +16,7 @@ def pesquisa_binaria(vetor, valor):
 
 
 for value in range(3):
-    value = int(input('digite seu valor:'))
+    value = int(input('valor:'))
     resultado_valor = pesquisa_binaria(vetor,value)
     
     
