@@ -23,10 +23,10 @@ for value in range(3):
 
     if resultado_valor == -1:
           
-            print(f'pesquisa falhou{pesquisa_binaria(vetor, value)}')
+            print(f'pesquisa falhou{resultado_valor}')
         
     else:
-         print(f'pesquisa foi um sucesso: {pesquisa_binaria(vetor, value)} ')
+         print(f'pesquisa foi um sucesso: {resultado_valor}')
         
         
     
